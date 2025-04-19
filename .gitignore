@@ -1,2 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
 .env
-*lock.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Sequelize CLI
+.sequelize*
+
+# VSCode settings
+.vscode/
+
+# Umzug storage file
+.umzug.json
+
+#bun.sh
+bun.lockb
